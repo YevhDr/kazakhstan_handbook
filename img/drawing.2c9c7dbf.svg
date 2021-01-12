@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="256.15671"
+     inkscape:cx="-104.46775"
      inkscape:cy="-23.849603"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -60,7 +60,7 @@
      transform="translate(0,-138.24999)">
     <path
        sodipodi:type="star"
-       style="opacity:1;vector-effect:none;fill:#ff8171;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.17851864;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;vector-effect:none;fill:#f6822f;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.17851864;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path815"
        sodipodi:sides="4"
        sodipodi:cx="46.113094"
@@ -85,7 +85,7 @@
        style="stroke-width:5.46932554" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73652267px;line-height:1.25;font-family:'Clear Sans';-inkscape-font-specification:'Clear Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4f4a60;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73652267px;line-height:1.25;font-family:'Clear Sans';-inkscape-font-specification:'Clear Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="8.5662909"
        y="235.38594"
        id="text819-1"><tspan
@@ -93,16 +93,16 @@
          id="tspan817-3"
          x="8.5662909"
          y="235.38594"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277863px;line-height:1.29999995;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#4f4a60;fill-opacity:1;stroke-width:0.26458332">Правовой</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277863px;line-height:1.29999995;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;">Правовой</tspan><tspan
          sodipodi:role="line"
          x="8.5662909"
          y="260.60953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277863px;line-height:1.29999995;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#4f4a60;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277863px;line-height:1.29999995;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan821-0">справочник</tspan><tspan
          sodipodi:role="line"
          x="8.5662909"
          y="285.83316"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277863px;line-height:1.29999995;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#4f4a60;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277863px;line-height:1.29999995;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan823-0">журналиста</tspan></text>
   </g>
 </svg>
